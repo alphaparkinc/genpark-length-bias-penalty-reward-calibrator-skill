@@ -1,0 +1,20 @@
+{
+  "name": "genpark-length-bias-penalty-reward-calibrator-skill",
+  "version": "1.0.0",
+  "description": "Verbosity penalty and length bias calibrator normalizing raw model rewards against response token lengths",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "length-bias",
+    "reward-calibration",
+    "verbosity-penalty",
+    "rlhf",
+    "score-normalizer",
+    "python-standard-library",
+    "agent-skills",
+    "alignment",
+    "eval-metrics",
+    "developer-tools"
+  ]
+}
