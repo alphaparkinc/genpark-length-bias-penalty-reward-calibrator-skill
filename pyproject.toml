@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-length-bias-penalty-reward-calibrator-skill"
+version = "1.0.0"
+description = "Verbosity penalty and length bias calibrator normalizing raw model rewards against response token lengths"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
